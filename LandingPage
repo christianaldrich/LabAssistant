@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="../css/home.css" />
+    <link rel="stylesheet" href="../css/nav.css" />
+    <!-- <link href="//db.onlinewebfonts.com/c/9ecec61376083fd290b75d94fdaca380?family=Baskerville+Old+Face" rel="stylesheet" type="text/css"/> -->
+    <title>Document</title>
+  </head>
+  <body>
+    <nav>
+      <div class="nav-wrapper">
+        <div class="nav-left">
+          <a href="./home.html"
+            ><button class="home-page">
+              <img class="logo" src="../assets/Logo.png" alt="" /></button
+          ></a>
+        </div>
+
+        <div class="nav-right">
+          <a href="./reserve.html"
+            ><button class="book-ticket">Reserve Ticket</button></a
+          >
+        </div>
+      </div>
+    </nav>
+
+    <div class="background">
+      <div class="background-content">
+        <video src="../assets/WDH1.mp4" autoplay muted></video>
+        <div class="background-content-text">
+          <h2>Jakarta Music Hall</h2>
+
+          <p>
+            Indonesia's premiere international music hall, at the heart of
+            Jakarta
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="carousel">
+      <h1>Upcoming Concerts</h1>
+
+      <div class="carousel-shows">
+        <div class="carousel-box">
+            <div class="carousel-content">
+              <img src="../assets/show-1.jpg" alt="" />
+              <p>Sun, Jan 1 7pm</p>
+    
+              <h2>New Year Celebration</h2>
+    
+              <h3>
+                Jakarta Orchestra
+                <br />
+                Jeremy Loa conductor
+                <br />
+                Holyvia Marcella vocal
+                <br />
+                Hady Gustianto violin
+                <br>
+                Vito Caris Untariady piano
+              </h3>
+            </div>
+          </div>
+    
+          <div class="carousel-box">
+            <div class="carousel-content">
+              <img src="../assets/show-2.jpg" alt="" />
+              <p>Sat, Jan 7 7.30pm</p>
+    
+              <h2>Lunar New Year</h2>
+    
+              <h3>
+                Jakarta Orchestra
+                <br />
+                Jeremy Loa conductor
+                <br />
+                Nigel Ng harp
+                
+              </h3>
+            </div>
+          </div>
+    
+          <div class="carousel-box">
+            <div class="carousel-content">
+              <img src="../assets/show-3.jpg" alt="" />
+              <p>Thu, Jan 19 7.30pm</p>
+    
+              <h2>Brahms' Piano Concerto No. 2 & Farrenc Symphony No.3</h2>
+    
+              <h3>
+                Jakarta Orchestra
+                <br />
+                Jeremy Loa conductor
+                <br />
+                Jaysie Lestari piano
+                
+              </h3>
+            </div>
+          </div>
+
+          <div class="carousel-box">
+            <div class="carousel-content">
+              <img src="../assets/show-4.jpg" alt="" />
+              <p>Wed, Feb 8 8pm</p>
+    
+              <h2>Vivaldi's The Four Seasons</h2>
+    
+              <h3>
+                Jakarta Orchestra
+                <br />
+                Jeremy Loa conductor
+                <br />
+                Hady Gustianto violin
+                
+              </h3>
+            </div>
+          </div>
+
+      </div>
+
+
+    </div>
+
+
+    <section>
+        <div class="histories">
+            <img src="../assets/home-1.jpg" alt="">
+          <div class="histories-texts">
+            <h3>
+                The History
+            </h3>
+            <h1>
+                The Music is in the Heart of Jakarta
+            </h1>
+            <p>Jakarta Music Hall is located in Kemayoran, a district within Central Jakarta, it is both strategically placed and designed by JM Architeture Firm in 2009. With the distinctive fusion of sharp architectural insight and strong artistic value, this fine concert hall is able to reach its level of superb acoustics.</p>
+          </div>
+        </div>
+
+        <div class="histories-mid">
+            
+          <div class="histories-texts">
+            <h3>
+                The Hall
+            </h3>
+            <h1>
+                World-class Concert Acoustics
+            </h1>
+            <p>Jakarta Music Hall features a stage made of pine wood strategically placed in the center of the six-story hall, audiences at every seat can enjoy an unobstructed and clear view of the performance. Each feature was planned to enhance the warmth and richness of sound in the space, providing a superb aural experience.</p>
+          </div>
+          
+          <img src="../assets/home-2.jpg" alt="">
+          
+        </div>
+
+        <div class="histories">
+            <img src="../assets/home-3.jpg" alt="">
+          <div class="histories-texts">
+            <h3>
+                The Icon
+            </h3>
+            <h1>
+                Special Music Instruments
+            </h1>
+            <p>Jakarta Music Hall is further complemented by its impressive lineup of special musical instruments. The real highlight of Jakarta Music Hall is its pipe organ which features 3,217 pipes, 57 ranks, and 3 manuals. Built in 1962 by Casavant Frères, this Canada-original organ weighs around a staggering 20,000 pounds.</p>
+          </div>
+        </div>
+
+    </section>
+
+
+
+
+
+
+
+  </body>
+</html>
